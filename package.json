@@ -4,7 +4,7 @@
   "description": "This project is for my learning and exploration of npm and NodeJS based apps, as a pre-requisite of the FreeCodeCamp Back End Development certification program.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
