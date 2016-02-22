@@ -1,0 +1,22 @@
+{
+  "name": "@femmestem/fcc-npm-project",
+  "version": "1.0.0",
+  "description": "This project is for my learning and exploration of npm and NodeJS based apps, as a pre-requisite of the FreeCodeCamp Back End Development certification program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/femmestem/FCC-Managing-NPM-Packages.git"
+  },
+  "keywords": [
+    "freecodecamp"
+  ],
+  "author": "Christine Feaster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/femmestem/FCC-Managing-NPM-Packages/issues"
+  },
+  "homepage": "https://github.com/femmestem/FCC-Managing-NPM-Packages#readme"
+}
